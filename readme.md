@@ -18,6 +18,9 @@ O Personal Finance Manager API é uma API RESTful projetada, como um exercício 
 
 A API é documentada usando o OpenAPI 3.0.1. Você pode acessar a [documentação completa aqui](http://henrique-personal-finance-manager.eastus2.cloudapp.azure.com/index.html).
 
+## Demonstração
+Um breve [vídeo demonstrativo](https://www.youtube.com/watch?v=hWZv52aHk44) está disponibilizado no youtube
+
 ## Hospedagem
 
 A API está hospedada em uma máquina virtual Linux na Azure, acessível pelo endereço [http://henrique-personal-finance-manager.eastus2.cloudapp.azure.com/index.html](http://henrique-personal-finance-manager.eastus2.cloudapp.azure.com/index.html).
